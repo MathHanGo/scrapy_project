@@ -1,0 +1,241 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html class="news-hkex">
+	<HEAD>
+		<title>Hong Kong Exchanges and Clearing Limited</title>
+    		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">    
+	        <meta name="viewport" content="width=device-width, initial-scale=1">
+                <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    		<link href="/ncms/css/main.css" rel="stylesheet" />
+    		<script type="text/javascript" src="/ncms/script/hkex_app.js"></script>
+    		<script type="text/javascript" src="/ncms/script/hkex_settings.js"></script>
+    		<script type="text/javascript" src="/ncms/script/hkex_widget.js"></script>
+    		<script type="text/javascript" src="/ncms/script/vendor.js"></script>
+		<LINK href="../css/hkex_css.css" type="text/css" rel="stylesheet">
+		<script language="javascript" src="/Js/util.js"></script>
+	<script type="text/javascript">
+	
+	// JS variables, please set before hkex_pagebanner.js
+			
+	var pageDefaultTitle = ""; 
+	
+	// TO override page title 
+        var pageDefaultBanner = "/ncms/media/HKEXnews/top_banner_bg.png"; // TO override page banner for desktop
+        var pageDefaultTabletBanner = "/ncms/media/HKEXnews/top_banner_bg_tablet.png"; // TO override page banner for tablet
+        // TO override breadcrumb
+	
+        var overrideBreadcrumb = [{
+            title: "Disclosure Of Interests (Notices Filed Through DION System Since 3 July 2017)",
+            url: "http://www2.hkexnews.hk/Shareholding-Disclosures/Disclosure-of-Interests/Search-facilities---DI-from-3-July-2017?sc_lang=en"
+        },
+	{            
+            title: "Disclosure Of Interests",
+            url: "http://www2.hkexnews.hk/Shareholding-Disclosures/Disclosure-of-Interests?sc_lang=en"
+        },
+	{            
+            title: "Shareholding Disclosures",
+            url: "http://www2.hkexnews.hk/Shareholding-Disclosures?sc_lang=en"
+        }];
+		
+        var overridePageTools = {};
+        overridePageTools.showlastupdate = 0; // 1 for ture, 0 for false
+        overridePageTools.lastupdate = "This is last updated date";
+        overridePageTools.showprint = 0; // 1 for ture, 0 for false
+        overridePageTools.printfriend = "Print FRIENDLY";        
+	</script>	
+        <!-- Clickjacking Fix-->
+    <style id="antiClickjack">
+        body {
+            display: none !important;
+        }
+    </style>    
+    <script type="text/javascript" language="javascript" src="../js/hkex_clickjack.js"></script>
+
+
+	<!-- PCCW Revamped 20040313 -->
+	
+	<!-- -->
+
+	</HEAD>
+	<body>
+   	<a name="TOP"></a>
+    <div id="skip-to-content"></div>
+
+    <div class="content-container content-container-reset">
+        <main class="di-page-content">
+            <div class="container section-panel">
+
+	<!-- PCCW Revamped 20040313 -->
+	
+		<!--<script LANGUAGE="javaScript" src="../js/hkex_head.js"></script>-->
+
+		<table width="100%" border="0" cellspacing="3" cellpadding="5" bgcolor="#FFFFFF" height="100%">
+		  <tr>
+			<td valign="top">
+	
+	<!-- -->
+
+		
+		<form method="post" action="./NSNotice3AListprint.aspx?sa2=nd&amp;sid=6893&amp;sd=04%2f05%2f2018&amp;ed=04%2f05%2f2019&amp;cid=0&amp;sa1=cl&amp;scsd=04%2f05%2f2018&amp;sced=04%2f05%2f2019&amp;src=MAIN&amp;lang=EN&amp;" id="NSNotice3A">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="IeX3RWk7qSp3LUdmXs267j1i+VYFb5VGnmoLs6LOso2YGD/SQQbAJiYz2d/PLdQs3cLNnGnoG64f/EuV3w+nzD3Vrm8=" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="A45CB6B4" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="tXuvK3GscpeX8l9vbSvBebmk65yitHhRd+++SXucIe1JFzkZRNlDpzAOIPaYJTdTo7hwI7y0SaqRtwe3EfEgxSPBUdDHjUaEHUz3KGMT2bHy6suNZZg2JDKK+fPRamlAaqDBlg==" />
+			<TABLE id="Table1" cellSpacing="0" cellPadding="0" width="100%" border="0">
+				<TR>
+					<TD class="title" colSpan="3">
+						<span id="lblTitle"><IMG src='images/titleEn.gif'></span></TD>
+				</TR>
+				<TR>
+					<TD><IMG id="IMG1" alt="" src="images/titLine.jpg" align="left"></TD>
+				</TR>
+				<TR>
+					<TD class="section" colSpan="3">
+						<font face="Arial, Helvetica, sans-serif" color="#CC0000"> <b><span id="lblSearch">List of DI notices filed by directors within a specified period - Current Securities</span></TD>
+				</TR>
+				<TR>
+					<!-- printfriendly -->
+					<!-- <TD class="section" align="right" colSpan="3"><a href="javascript:void(0);" onclick="javascript:window.open('notes/NSNotice3AList.htm', '')"><IMG alt="" border="0" src="images/explannoteEN.gif"></a>&nbsp;<a href="javascript:void(0);" onclick="javascript:window.print()"><IMG alt="" border="0" src="images/butPrintEN.gif"></a></TD> -->					
+					<TD class="section" align="right" colSpan="3"><a href="javascript:void(0);" onclick="javascript:window.open('notes/NSNotice3AList.htm', '')"><IMG alt="" border="0" src="images/explannoteEN.gif"></a></TD>
+				</TR>
+				<TR>
+                    <td style="width:5px;"></td>
+					<TD vAlign="top" width="100%" colspan="2">
+						<TABLE id="Table2" cellSpacing="0" cellPadding="0" width="100%" border="0">
+							<TR>								
+								<TD class="boldtxt" width="20%">
+									<span id="lblStockCode">Stock code:</span></TD>
+								<TD class="boldtxt" width="80%"><span id="lblSCStockCode">00700</span></TD>
+							</TR>
+							<TR>								
+								<TD class="boldtxt" width="20%">
+									<span id="lblName">Name of listed corporation:</span></TD>
+								<TD class="boldtxt" width="80%"><span id="lblSCCorpName">Tencent Holdings Ltd.</span></TD>
+							</TR>
+							<TR>								
+								<TD class="boldtxt" width="20%">
+									<span id="lblDate">Date (dd/mm/yyyy): </span></TD>
+								<TD class="boldtxt" width="80%"><span id="lblSCStartDate">04/05/2018</span>
+									-
+									<span id="lblSCEndDate">04/05/2019</span></TD>
+							</TR>
+						</TABLE>
+						<TABLE id="Table4" cellSpacing="0" cellPadding="0" width="100%" border="0">
+							<TR>								
+								<TD colspan="2" width="100%" align="middle">
+									<TABLE id="Table3" width="100%" align="center" cellSpacing="1" cellPadding="1" border="0">
+										<TR>
+											<TD colSpan="9">&nbsp;</TD>
+										</TR>
+										<TR>
+											<TD colSpan="9" class="txt">
+												<span id="lblDesc">Please click the links under the column "Date of relevant event" to view the details of the DI notices.</span></TD>
+										</TR>
+										<TR>
+											<TD colSpan="9" class="txt">
+												<span id="lblNote">*Notes: (L) - Long Position, (S) - Short Position, (P) - Lending Pool</span></TD>
+										</TR>
+									</TABLE>
+									<table cellspacing="0" cellpadding="0" align="Center" rules="all" border="1" id="grdPaging" width="100%">
+	<tr class="boldtxtw" valign="top" bgcolor="#999999">
+		<td>Form Serial Number</td><td>Name of director </td><td>No. of shares bought / sold / involved</td><td>Reason for disclosure </td><td>Average price per share</td><td>No. of shares interested (See *Notes above)</td><td>% of issued voting shares</td><td>Date of relevant event (dd/mm/yyyy)</td><td>Interests in shares of associated corporation</td><td>Interests in debentures</td>
+	</tr><tr>
+		<td class="tbCell" align="left" valign="top" width="13%"><a href="NSForm3A.aspx?fn=DA20190412E00439&sa2=nd&sid=6893&sd=04%2f05%2f2018&ed=04%2f05%2f2019&cid=0&sa1=cl&scsd=04%2f05%2f2018&sced=04%2f05%2f2019&src=MAIN&lang=EN&">DA20190412E00439</a></td><td class="tbCell" align="left" valign="top" width="15%">Bruce Iain Ferguson</td><td class="tbCell" align="right" valign="top" width="13%">2,500(L)<br></td><td class="tbCell" align="left" valign="top" width="6%"><a href="javascript:openWin('NSStdCode.htm?ft=DA#1316', 'ExplanatoryNotes', 600, 400);void(0);">1316</a>(L)<br></td><td class="tbCell" align="right" valign="top" width="13%">&nbsp;</td><td class="tbCell" align="right" valign="top" width="13%">387,500(L)<br>0(S)</td><td class="tbCell" align="right" valign="top" width="6%">0.00(L)<br>0.00(S)</td><td class="tbCell" align="left" valign="top" width="8%"><a href="NSForm3A.aspx?fn=DA20190412E00439&sa2=nd&sid=6893&sd=04%2f05%2f2018&ed=04%2f05%2f2019&cid=0&sa1=cl&scsd=04%2f05%2f2018&sced=04%2f05%2f2019&src=MAIN&lang=EN&">09/04/2019</a></td><td class="tbCell" align="left" valign="top" width="7%">&nbsp;</td><td class="tbCell" align="left" valign="top" width="7%">&nbsp;</td>
+	</tr><tr>
+		<td class="tbCell" align="left" valign="top" width="13%"><a href="NSForm3A.aspx?fn=DA20190412E00449&sa2=nd&sid=6893&sd=04%2f05%2f2018&ed=04%2f05%2f2019&cid=0&sa1=cl&scsd=04%2f05%2f2018&sced=04%2f05%2f2019&src=MAIN&lang=EN&">DA20190412E00449</a></td><td class="tbCell" align="left" valign="top" width="15%">Li Dong Sheng</td><td class="tbCell" align="right" valign="top" width="13%">1,625(L)<br></td><td class="tbCell" align="left" valign="top" width="6%"><a href="javascript:openWin('NSStdCode.htm?ft=DA#1316', 'ExplanatoryNotes', 600, 400);void(0);">1316</a>(L)<br></td><td class="tbCell" align="right" valign="top" width="13%">&nbsp;</td><td class="tbCell" align="right" valign="top" width="13%">61,300(L)<br>0(S)</td><td class="tbCell" align="right" valign="top" width="6%">0.00(L)<br>0.00(S)</td><td class="tbCell" align="left" valign="top" width="8%"><a href="NSForm3A.aspx?fn=DA20190412E00449&sa2=nd&sid=6893&sd=04%2f05%2f2018&ed=04%2f05%2f2019&cid=0&sa1=cl&scsd=04%2f05%2f2018&sced=04%2f05%2f2019&src=MAIN&lang=EN&">09/04/2019</a></td><td class="tbCell" align="left" valign="top" width="7%">&nbsp;</td><td class="tbCell" align="left" valign="top" width="7%">&nbsp;</td>
+	</tr><tr>
+		<td class="tbCell" align="left" valign="top" width="13%"><a href="NSForm3A.aspx?fn=DA20190412E00445&sa2=nd&sid=6893&sd=04%2f05%2f2018&ed=04%2f05%2f2019&cid=0&sa1=cl&scsd=04%2f05%2f2018&sced=04%2f05%2f2019&src=MAIN&lang=EN&">DA20190412E00445</a></td><td class="tbCell" align="left" valign="top" width="15%">Stone Ian Charles</td><td class="tbCell" align="right" valign="top" width="13%">3,250(L)<br></td><td class="tbCell" align="left" valign="top" width="6%"><a href="javascript:openWin('NSStdCode.htm?ft=DA#1316', 'ExplanatoryNotes', 600, 400);void(0);">1316</a>(L)<br></td><td class="tbCell" align="right" valign="top" width="13%">&nbsp;</td><td class="tbCell" align="right" valign="top" width="13%">395,000(L)<br>0(S)</td><td class="tbCell" align="right" valign="top" width="6%">0.00(L)<br>0.00(S)</td><td class="tbCell" align="left" valign="top" width="8%"><a href="NSForm3A.aspx?fn=DA20190412E00445&sa2=nd&sid=6893&sd=04%2f05%2f2018&ed=04%2f05%2f2019&cid=0&sa1=cl&scsd=04%2f05%2f2018&sced=04%2f05%2f2019&src=MAIN&lang=EN&">09/04/2019</a></td><td class="tbCell" align="left" valign="top" width="7%">&nbsp;</td><td class="tbCell" align="left" valign="top" width="7%">&nbsp;</td>
+	</tr><tr>
+		<td class="tbCell" align="left" valign="top" width="13%"><a href="NSForm3A.aspx?fn=DA20190412E00451&sa2=nd&sid=6893&sd=04%2f05%2f2018&ed=04%2f05%2f2019&cid=0&sa1=cl&scsd=04%2f05%2f2018&sced=04%2f05%2f2019&src=MAIN&lang=EN&">DA20190412E00451</a></td><td class="tbCell" align="left" valign="top" width="15%">Yang Siu Shun</td><td class="tbCell" align="right" valign="top" width="13%">2,500(L)<br></td><td class="tbCell" align="left" valign="top" width="6%"><a href="javascript:openWin('NSStdCode.htm?ft=DA#1316', 'ExplanatoryNotes', 600, 400);void(0);">1316</a>(L)<br></td><td class="tbCell" align="right" valign="top" width="13%">&nbsp;</td><td class="tbCell" align="right" valign="top" width="13%">46,474(L)<br>0(S)</td><td class="tbCell" align="right" valign="top" width="6%">0.00(L)<br>0.00(S)</td><td class="tbCell" align="left" valign="top" width="8%"><a href="NSForm3A.aspx?fn=DA20190412E00451&sa2=nd&sid=6893&sd=04%2f05%2f2018&ed=04%2f05%2f2019&cid=0&sa1=cl&scsd=04%2f05%2f2018&sced=04%2f05%2f2019&src=MAIN&lang=EN&">09/04/2019</a></td><td class="tbCell" align="left" valign="top" width="7%">&nbsp;</td><td class="tbCell" align="left" valign="top" width="7%">&nbsp;</td>
+	</tr><tr>
+		<td class="tbCell" align="left" valign="top" width="13%"><a href="NSForm3A.aspx?fn=DA20190410E00252&sa2=nd&sid=6893&sd=04%2f05%2f2018&ed=04%2f05%2f2019&cid=0&sa1=cl&scsd=04%2f05%2f2018&sced=04%2f05%2f2019&src=MAIN&lang=EN&">DA20190410E00252</a></td><td class="tbCell" align="left" valign="top" width="15%">Bruce Iain Ferguson</td><td class="tbCell" align="right" valign="top" width="13%">13,000(L)<br></td><td class="tbCell" align="left" valign="top" width="6%"><a href="javascript:openWin('NSStdCode.htm?ft=DA#11031', 'ExplanatoryNotes', 600, 400);void(0);">11031</a>(L)<br></td><td class="tbCell" align="right" valign="top" width="13%">&nbsp;</td><td class="tbCell" align="right" valign="top" width="13%">387,500(L)<br>0(S)</td><td class="tbCell" align="right" valign="top" width="6%">0.00(L)<br>0.00(S)</td><td class="tbCell" align="left" valign="top" width="8%"><a href="NSForm3A.aspx?fn=DA20190410E00252&sa2=nd&sid=6893&sd=04%2f05%2f2018&ed=04%2f05%2f2019&cid=0&sa1=cl&scsd=04%2f05%2f2018&sced=04%2f05%2f2019&src=MAIN&lang=EN&">04/04/2019</a></td><td class="tbCell" align="left" valign="top" width="7%">&nbsp;</td><td class="tbCell" align="left" valign="top" width="7%">&nbsp;</td>
+	</tr><tr>
+		<td class="tbCell" align="left" valign="top" width="13%"><a href="NSForm3A.aspx?fn=DA20190410E00234&sa2=nd&sid=6893&sd=04%2f05%2f2018&ed=04%2f05%2f2019&cid=0&sa1=cl&scsd=04%2f05%2f2018&sced=04%2f05%2f2019&src=MAIN&lang=EN&">DA20190410E00234</a></td><td class="tbCell" align="left" valign="top" width="15%">Lau Chi Ping Martin</td><td class="tbCell" align="right" valign="top" width="13%">3,506,580(L)<br></td><td class="tbCell" align="left" valign="top" width="6%"><a href="javascript:openWin('NSStdCode.htm?ft=DA#11031', 'ExplanatoryNotes', 600, 400);void(0);">11031</a>(L)<br></td><td class="tbCell" align="right" valign="top" width="13%">&nbsp;</td><td class="tbCell" align="right" valign="top" width="13%">52,690,380(L)<br>0(S)</td><td class="tbCell" align="right" valign="top" width="6%">0.55(L)<br>0.00(S)</td><td class="tbCell" align="left" valign="top" width="8%"><a href="NSForm3A.aspx?fn=DA20190410E00234&sa2=nd&sid=6893&sd=04%2f05%2f2018&ed=04%2f05%2f2019&cid=0&sa1=cl&scsd=04%2f05%2f2018&sced=04%2f05%2f2019&src=MAIN&lang=EN&">04/04/2019</a></td><td class="tbCell" align="left" valign="top" width="7%">&nbsp;</td><td class="tbCell" align="left" valign="top" width="7%">&nbsp;</td>
+	</tr><tr>
+		<td class="tbCell" align="left" valign="top" width="13%"><a href="NSForm3A.aspx?fn=DA20190410E00286&sa2=nd&sid=6893&sd=04%2f05%2f2018&ed=04%2f05%2f2019&cid=0&sa1=cl&scsd=04%2f05%2f2018&sced=04%2f05%2f2019&src=MAIN&lang=EN&">DA20190410E00286</a></td><td class="tbCell" align="left" valign="top" width="15%">Li Dong Sheng</td><td class="tbCell" align="right" valign="top" width="13%">8,500(L)<br></td><td class="tbCell" align="left" valign="top" width="6%"><a href="javascript:openWin('NSStdCode.htm?ft=DA#11031', 'ExplanatoryNotes', 600, 400);void(0);">11031</a>(L)<br></td><td class="tbCell" align="right" valign="top" width="13%">&nbsp;</td><td class="tbCell" align="right" valign="top" width="13%">61,300(L)<br>0(S)</td><td class="tbCell" align="right" valign="top" width="6%">0.00(L)<br>0.00(S)</td><td class="tbCell" align="left" valign="top" width="8%"><a href="NSForm3A.aspx?fn=DA20190410E00286&sa2=nd&sid=6893&sd=04%2f05%2f2018&ed=04%2f05%2f2019&cid=0&sa1=cl&scsd=04%2f05%2f2018&sced=04%2f05%2f2019&src=MAIN&lang=EN&">04/04/2019</a></td><td class="tbCell" align="left" valign="top" width="7%">&nbsp;</td><td class="tbCell" align="left" valign="top" width="7%">&nbsp;</td>
+	</tr><tr>
+		<td class="tbCell" align="left" valign="top" width="13%"><a href="NSForm3A.aspx?fn=DA20190410E00268&sa2=nd&sid=6893&sd=04%2f05%2f2018&ed=04%2f05%2f2019&cid=0&sa1=cl&scsd=04%2f05%2f2018&sced=04%2f05%2f2019&src=MAIN&lang=EN&">DA20190410E00268</a></td><td class="tbCell" align="left" valign="top" width="15%">Stone Ian Charles</td><td class="tbCell" align="right" valign="top" width="13%">17,000(L)<br></td><td class="tbCell" align="left" valign="top" width="6%"><a href="javascript:openWin('NSStdCode.htm?ft=DA#11031', 'ExplanatoryNotes', 600, 400);void(0);">11031</a>(L)<br></td><td class="tbCell" align="right" valign="top" width="13%">&nbsp;</td><td class="tbCell" align="right" valign="top" width="13%">395,000(L)<br>0(S)</td><td class="tbCell" align="right" valign="top" width="6%">0.00(L)<br>0.00(S)</td><td class="tbCell" align="left" valign="top" width="8%"><a href="NSForm3A.aspx?fn=DA20190410E00268&sa2=nd&sid=6893&sd=04%2f05%2f2018&ed=04%2f05%2f2019&cid=0&sa1=cl&scsd=04%2f05%2f2018&sced=04%2f05%2f2019&src=MAIN&lang=EN&">04/04/2019</a></td><td class="tbCell" align="left" valign="top" width="7%">&nbsp;</td><td class="tbCell" align="left" valign="top" width="7%">&nbsp;</td>
+	</tr><tr>
+		<td class="tbCell" align="left" valign="top" width="13%"><a href="NSForm3A.aspx?fn=DA20190410E00298&sa2=nd&sid=6893&sd=04%2f05%2f2018&ed=04%2f05%2f2019&cid=0&sa1=cl&scsd=04%2f05%2f2018&sced=04%2f05%2f2019&src=MAIN&lang=EN&">DA20190410E00298</a></td><td class="tbCell" align="left" valign="top" width="15%">Yang Siu Shun</td><td class="tbCell" align="right" valign="top" width="13%">15,000(L)<br></td><td class="tbCell" align="left" valign="top" width="6%"><a href="javascript:openWin('NSStdCode.htm?ft=DA#11031', 'ExplanatoryNotes', 600, 400);void(0);">11031</a>(L)<br></td><td class="tbCell" align="right" valign="top" width="13%">&nbsp;</td><td class="tbCell" align="right" valign="top" width="13%">46,474(L)<br>0(S)</td><td class="tbCell" align="right" valign="top" width="6%">0.00(L)<br>0.00(S)</td><td class="tbCell" align="left" valign="top" width="8%"><a href="NSForm3A.aspx?fn=DA20190410E00298&sa2=nd&sid=6893&sd=04%2f05%2f2018&ed=04%2f05%2f2019&cid=0&sa1=cl&scsd=04%2f05%2f2018&sced=04%2f05%2f2019&src=MAIN&lang=EN&">04/04/2019</a></td><td class="tbCell" align="left" valign="top" width="7%">&nbsp;</td><td class="tbCell" align="left" valign="top" width="7%">&nbsp;</td>
+	</tr><tr>
+		<td class="tbCell" align="left" valign="top" width="13%"><a href="NSForm3A.aspx?fn=DA20190408E00532&sa2=nd&sid=6893&sd=04%2f05%2f2018&ed=04%2f05%2f2019&cid=0&sa1=cl&scsd=04%2f05%2f2018&sced=04%2f05%2f2019&src=MAIN&lang=EN&">DA20190408E00532</a></td><td class="tbCell" align="left" valign="top" width="15%">Bruce Iain Ferguson</td><td class="tbCell" align="right" valign="top" width="13%">7,500(L)<br></td><td class="tbCell" align="left" valign="top" width="6%"><a href="javascript:openWin('NSStdCode.htm?ft=DA#1316', 'ExplanatoryNotes', 600, 400);void(0);">1316</a>(L)<br></td><td class="tbCell" align="right" valign="top" width="13%">&nbsp;</td><td class="tbCell" align="right" valign="top" width="13%">374,500(L)<br>0(S)</td><td class="tbCell" align="right" valign="top" width="6%">0.00(L)<br>0.00(S)</td><td class="tbCell" align="left" valign="top" width="8%"><a href="NSForm3A.aspx?fn=DA20190408E00532&sa2=nd&sid=6893&sd=04%2f05%2f2018&ed=04%2f05%2f2019&cid=0&sa1=cl&scsd=04%2f05%2f2018&sced=04%2f05%2f2019&src=MAIN&lang=EN&">02/04/2019</a></td><td class="tbCell" align="left" valign="top" width="7%">&nbsp;</td><td class="tbCell" align="left" valign="top" width="7%">&nbsp;</td>
+	</tr><tr>
+		<td class="tbCell" align="left" valign="top" width="13%"><a href="NSForm3A.aspx?fn=DA20190408E00535&sa2=nd&sid=6893&sd=04%2f05%2f2018&ed=04%2f05%2f2019&cid=0&sa1=cl&scsd=04%2f05%2f2018&sced=04%2f05%2f2019&src=MAIN&lang=EN&">DA20190408E00535</a></td><td class="tbCell" align="left" valign="top" width="15%">Li Dong Sheng</td><td class="tbCell" align="right" valign="top" width="13%">3,750(L)<br></td><td class="tbCell" align="left" valign="top" width="6%"><a href="javascript:openWin('NSStdCode.htm?ft=DA#1316', 'ExplanatoryNotes', 600, 400);void(0);">1316</a>(L)<br></td><td class="tbCell" align="right" valign="top" width="13%">&nbsp;</td><td class="tbCell" align="right" valign="top" width="13%">52,800(L)<br>0(S)</td><td class="tbCell" align="right" valign="top" width="6%">0.00(L)<br>0.00(S)</td><td class="tbCell" align="left" valign="top" width="8%"><a href="NSForm3A.aspx?fn=DA20190408E00535&sa2=nd&sid=6893&sd=04%2f05%2f2018&ed=04%2f05%2f2019&cid=0&sa1=cl&scsd=04%2f05%2f2018&sced=04%2f05%2f2019&src=MAIN&lang=EN&">02/04/2019</a></td><td class="tbCell" align="left" valign="top" width="7%">&nbsp;</td><td class="tbCell" align="left" valign="top" width="7%">&nbsp;</td>
+	</tr><tr>
+		<td class="tbCell" align="left" valign="top" width="13%"><a href="NSForm3A.aspx?fn=DA20190408E00533&sa2=nd&sid=6893&sd=04%2f05%2f2018&ed=04%2f05%2f2019&cid=0&sa1=cl&scsd=04%2f05%2f2018&sced=04%2f05%2f2019&src=MAIN&lang=EN&">DA20190408E00533</a></td><td class="tbCell" align="left" valign="top" width="15%">Stone Ian Charles</td><td class="tbCell" align="right" valign="top" width="13%">7,500(L)<br></td><td class="tbCell" align="left" valign="top" width="6%"><a href="javascript:openWin('NSStdCode.htm?ft=DA#1316', 'ExplanatoryNotes', 600, 400);void(0);">1316</a>(L)<br></td><td class="tbCell" align="right" valign="top" width="13%">&nbsp;</td><td class="tbCell" align="right" valign="top" width="13%">378,000(L)<br>0(S)</td><td class="tbCell" align="right" valign="top" width="6%">0.00(L)<br>0.00(S)</td><td class="tbCell" align="left" valign="top" width="8%"><a href="NSForm3A.aspx?fn=DA20190408E00533&sa2=nd&sid=6893&sd=04%2f05%2f2018&ed=04%2f05%2f2019&cid=0&sa1=cl&scsd=04%2f05%2f2018&sced=04%2f05%2f2019&src=MAIN&lang=EN&">02/04/2019</a></td><td class="tbCell" align="left" valign="top" width="7%">&nbsp;</td><td class="tbCell" align="left" valign="top" width="7%">&nbsp;</td>
+	</tr><tr>
+		<td class="tbCell" align="left" valign="top" width="13%"><a href="NSForm3A.aspx?fn=DA20190326E00374&sa2=nd&sid=6893&sd=04%2f05%2f2018&ed=04%2f05%2f2019&cid=0&sa1=cl&scsd=04%2f05%2f2018&sced=04%2f05%2f2019&src=MAIN&lang=EN&">DA20190326E00374</a></td><td class="tbCell" align="left" valign="top" width="15%">Bruce Iain Ferguson</td><td class="tbCell" align="right" valign="top" width="13%">15,000(L)<br></td><td class="tbCell" align="left" valign="top" width="6%"><a href="javascript:openWin('NSStdCode.htm?ft=DA#1316', 'ExplanatoryNotes', 600, 400);void(0);">1316</a>(L)<br></td><td class="tbCell" align="right" valign="top" width="13%">&nbsp;</td><td class="tbCell" align="right" valign="top" width="13%">374,500(L)<br>0(S)</td><td class="tbCell" align="right" valign="top" width="6%">0.00(L)<br>0.00(S)</td><td class="tbCell" align="left" valign="top" width="8%"><a href="NSForm3A.aspx?fn=DA20190326E00374&sa2=nd&sid=6893&sd=04%2f05%2f2018&ed=04%2f05%2f2019&cid=0&sa1=cl&scsd=04%2f05%2f2018&sced=04%2f05%2f2019&src=MAIN&lang=EN&">24/03/2019</a></td><td class="tbCell" align="left" valign="top" width="7%">&nbsp;</td><td class="tbCell" align="left" valign="top" width="7%">&nbsp;</td>
+	</tr><tr>
+		<td class="tbCell" align="left" valign="top" width="13%"><a href="NSForm3A.aspx?fn=DA20190326E00378&sa2=nd&sid=6893&sd=04%2f05%2f2018&ed=04%2f05%2f2019&cid=0&sa1=cl&scsd=04%2f05%2f2018&sced=04%2f05%2f2019&src=MAIN&lang=EN&">DA20190326E00378</a></td><td class="tbCell" align="left" valign="top" width="15%">Li Dong Sheng</td><td class="tbCell" align="right" valign="top" width="13%">7,500(L)<br></td><td class="tbCell" align="left" valign="top" width="6%"><a href="javascript:openWin('NSStdCode.htm?ft=DA#1316', 'ExplanatoryNotes', 600, 400);void(0);">1316</a>(L)<br></td><td class="tbCell" align="right" valign="top" width="13%">&nbsp;</td><td class="tbCell" align="right" valign="top" width="13%">52,800(L)<br>0(S)</td><td class="tbCell" align="right" valign="top" width="6%">0.00(L)<br>0.00(S)</td><td class="tbCell" align="left" valign="top" width="8%"><a href="NSForm3A.aspx?fn=DA20190326E00378&sa2=nd&sid=6893&sd=04%2f05%2f2018&ed=04%2f05%2f2019&cid=0&sa1=cl&scsd=04%2f05%2f2018&sced=04%2f05%2f2019&src=MAIN&lang=EN&">24/03/2019</a></td><td class="tbCell" align="left" valign="top" width="7%">&nbsp;</td><td class="tbCell" align="left" valign="top" width="7%">&nbsp;</td>
+	</tr><tr>
+		<td class="tbCell" align="left" valign="top" width="13%"><a href="NSForm3A.aspx?fn=DA20190326E00376&sa2=nd&sid=6893&sd=04%2f05%2f2018&ed=04%2f05%2f2019&cid=0&sa1=cl&scsd=04%2f05%2f2018&sced=04%2f05%2f2019&src=MAIN&lang=EN&">DA20190326E00376</a></td><td class="tbCell" align="left" valign="top" width="15%">Stone Ian Charles</td><td class="tbCell" align="right" valign="top" width="13%">15,000(L)<br></td><td class="tbCell" align="left" valign="top" width="6%"><a href="javascript:openWin('NSStdCode.htm?ft=DA#1316', 'ExplanatoryNotes', 600, 400);void(0);">1316</a>(L)<br></td><td class="tbCell" align="right" valign="top" width="13%">&nbsp;</td><td class="tbCell" align="right" valign="top" width="13%">378,000(L)<br>0(S)</td><td class="tbCell" align="right" valign="top" width="6%">0.00(L)<br>0.00(S)</td><td class="tbCell" align="left" valign="top" width="8%"><a href="NSForm3A.aspx?fn=DA20190326E00376&sa2=nd&sid=6893&sd=04%2f05%2f2018&ed=04%2f05%2f2019&cid=0&sa1=cl&scsd=04%2f05%2f2018&sced=04%2f05%2f2019&src=MAIN&lang=EN&">24/03/2019</a></td><td class="tbCell" align="left" valign="top" width="7%">&nbsp;</td><td class="tbCell" align="left" valign="top" width="7%">&nbsp;</td>
+	</tr><tr>
+		<td class="tbCell" align="left" valign="top" width="13%"><a href="NSForm3A.aspx?fn=DA20190326E00379&sa2=nd&sid=6893&sd=04%2f05%2f2018&ed=04%2f05%2f2019&cid=0&sa1=cl&scsd=04%2f05%2f2018&sced=04%2f05%2f2019&src=MAIN&lang=EN&">DA20190326E00379</a></td><td class="tbCell" align="left" valign="top" width="15%">Yang Siu Shun</td><td class="tbCell" align="right" valign="top" width="13%">2,500(L)<br></td><td class="tbCell" align="left" valign="top" width="6%"><a href="javascript:openWin('NSStdCode.htm?ft=DA#1316', 'ExplanatoryNotes', 600, 400);void(0);">1316</a>(L)<br></td><td class="tbCell" align="right" valign="top" width="13%">&nbsp;</td><td class="tbCell" align="right" valign="top" width="13%">31,474(L)<br>0(S)</td><td class="tbCell" align="right" valign="top" width="6%">0.00(L)<br>0.00(S)</td><td class="tbCell" align="left" valign="top" width="8%"><a href="NSForm3A.aspx?fn=DA20190326E00379&sa2=nd&sid=6893&sd=04%2f05%2f2018&ed=04%2f05%2f2019&cid=0&sa1=cl&scsd=04%2f05%2f2018&sced=04%2f05%2f2019&src=MAIN&lang=EN&">24/03/2019</a></td><td class="tbCell" align="left" valign="top" width="7%">&nbsp;</td><td class="tbCell" align="left" valign="top" width="7%">&nbsp;</td>
+	</tr><tr>
+		<td class="tbCell" align="left" valign="top" width="13%"><a href="NSForm3A.aspx?fn=DA20190326E00373&sa2=nd&sid=6893&sd=04%2f05%2f2018&ed=04%2f05%2f2019&cid=0&sa1=cl&scsd=04%2f05%2f2018&sced=04%2f05%2f2019&src=MAIN&lang=EN&">DA20190326E00373</a></td><td class="tbCell" align="left" valign="top" width="15%">Bruce Iain Ferguson</td><td class="tbCell" align="right" valign="top" width="13%">5,000(L)<br></td><td class="tbCell" align="left" valign="top" width="6%"><a href="javascript:openWin('NSStdCode.htm?ft=DA#1316', 'ExplanatoryNotes', 600, 400);void(0);">1316</a>(L)<br></td><td class="tbCell" align="right" valign="top" width="13%">&nbsp;</td><td class="tbCell" align="right" valign="top" width="13%">374,500(L)<br>0(S)</td><td class="tbCell" align="right" valign="top" width="6%">0.00(L)<br>0.00(S)</td><td class="tbCell" align="left" valign="top" width="8%"><a href="NSForm3A.aspx?fn=DA20190326E00373&sa2=nd&sid=6893&sd=04%2f05%2f2018&ed=04%2f05%2f2019&cid=0&sa1=cl&scsd=04%2f05%2f2018&sced=04%2f05%2f2019&src=MAIN&lang=EN&">21/03/2019</a></td><td class="tbCell" align="left" valign="top" width="7%">&nbsp;</td><td class="tbCell" align="left" valign="top" width="7%">&nbsp;</td>
+	</tr><tr>
+		<td class="tbCell" align="left" valign="top" width="13%"><a href="NSForm3A.aspx?fn=DA20190326E00377&sa2=nd&sid=6893&sd=04%2f05%2f2018&ed=04%2f05%2f2019&cid=0&sa1=cl&scsd=04%2f05%2f2018&sced=04%2f05%2f2019&src=MAIN&lang=EN&">DA20190326E00377</a></td><td class="tbCell" align="left" valign="top" width="15%">Li Dong Sheng</td><td class="tbCell" align="right" valign="top" width="13%">2,500(L)<br></td><td class="tbCell" align="left" valign="top" width="6%"><a href="javascript:openWin('NSStdCode.htm?ft=DA#1316', 'ExplanatoryNotes', 600, 400);void(0);">1316</a>(L)<br></td><td class="tbCell" align="right" valign="top" width="13%">&nbsp;</td><td class="tbCell" align="right" valign="top" width="13%">52,800(L)<br>0(S)</td><td class="tbCell" align="right" valign="top" width="6%">0.00(L)<br>0.00(S)</td><td class="tbCell" align="left" valign="top" width="8%"><a href="NSForm3A.aspx?fn=DA20190326E00377&sa2=nd&sid=6893&sd=04%2f05%2f2018&ed=04%2f05%2f2019&cid=0&sa1=cl&scsd=04%2f05%2f2018&sced=04%2f05%2f2019&src=MAIN&lang=EN&">21/03/2019</a></td><td class="tbCell" align="left" valign="top" width="7%">&nbsp;</td><td class="tbCell" align="left" valign="top" width="7%">&nbsp;</td>
+	</tr><tr>
+		<td class="tbCell" align="left" valign="top" width="13%"><a href="NSForm3A.aspx?fn=DA20190326E00375&sa2=nd&sid=6893&sd=04%2f05%2f2018&ed=04%2f05%2f2019&cid=0&sa1=cl&scsd=04%2f05%2f2018&sced=04%2f05%2f2019&src=MAIN&lang=EN&">DA20190326E00375</a></td><td class="tbCell" align="left" valign="top" width="15%">Stone Ian Charles</td><td class="tbCell" align="right" valign="top" width="13%">5,000(L)<br></td><td class="tbCell" align="left" valign="top" width="6%"><a href="javascript:openWin('NSStdCode.htm?ft=DA#1316', 'ExplanatoryNotes', 600, 400);void(0);">1316</a>(L)<br></td><td class="tbCell" align="right" valign="top" width="13%">&nbsp;</td><td class="tbCell" align="right" valign="top" width="13%">378,000(L)<br>0(S)</td><td class="tbCell" align="right" valign="top" width="6%">0.00(L)<br>0.00(S)</td><td class="tbCell" align="left" valign="top" width="8%"><a href="NSForm3A.aspx?fn=DA20190326E00375&sa2=nd&sid=6893&sd=04%2f05%2f2018&ed=04%2f05%2f2019&cid=0&sa1=cl&scsd=04%2f05%2f2018&sced=04%2f05%2f2019&src=MAIN&lang=EN&">21/03/2019</a></td><td class="tbCell" align="left" valign="top" width="7%">&nbsp;</td><td class="tbCell" align="left" valign="top" width="7%">&nbsp;</td>
+	</tr><tr>
+		<td class="tbCell" align="left" valign="top" width="13%"><a href="NSForm3A.aspx?fn=DA20190123E00315&sa2=nd&sid=6893&sd=04%2f05%2f2018&ed=04%2f05%2f2019&cid=0&sa1=cl&scsd=04%2f05%2f2018&sced=04%2f05%2f2019&src=MAIN&lang=EN&">DA20190123E00315</a></td><td class="tbCell" align="left" valign="top" width="15%">Stone Ian Charles</td><td class="tbCell" align="right" valign="top" width="13%">55,000(L)<br></td><td class="tbCell" align="left" valign="top" width="6%"><a href="javascript:openWin('NSStdCode.htm?ft=DA#1201', 'ExplanatoryNotes', 600, 400);void(0);">1201</a>(L)<br></td><td class="tbCell" align="right" valign="top" width="13%">HKD 335.0523</td><td class="tbCell" align="right" valign="top" width="13%">378,000(L)<br>0(S)</td><td class="tbCell" align="right" valign="top" width="6%">0.00(L)<br>0.00(S)</td><td class="tbCell" align="left" valign="top" width="8%"><a href="NSForm3A.aspx?fn=DA20190123E00315&sa2=nd&sid=6893&sd=04%2f05%2f2018&ed=04%2f05%2f2019&cid=0&sa1=cl&scsd=04%2f05%2f2018&sced=04%2f05%2f2019&src=MAIN&lang=EN&">18/01/2019</a></td><td class="tbCell" align="left" valign="top" width="7%">&nbsp;</td><td class="tbCell" align="left" valign="top" width="7%">&nbsp;</td>
+	</tr><tr>
+		<td class="tbCell" align="left" valign="top" width="13%"><a href="NSForm3A.aspx?fn=DA20181127E00286&sa2=nd&sid=6893&sd=04%2f05%2f2018&ed=04%2f05%2f2019&cid=0&sa1=cl&scsd=04%2f05%2f2018&sced=04%2f05%2f2019&src=MAIN&lang=EN&">DA20181127E00286</a></td><td class="tbCell" align="left" valign="top" width="15%">Bruce Iain Ferguson</td><td class="tbCell" align="right" valign="top" width="13%">10,000(L)<br></td><td class="tbCell" align="left" valign="top" width="6%"><a href="javascript:openWin('NSStdCode.htm?ft=DA#1201', 'ExplanatoryNotes', 600, 400);void(0);">1201</a>(L)<br></td><td class="tbCell" align="right" valign="top" width="13%">HKD 295.8500</td><td class="tbCell" align="right" valign="top" width="13%">374,500(L)<br>0(S)</td><td class="tbCell" align="right" valign="top" width="6%">0.00(L)<br>0.00(S)</td><td class="tbCell" align="left" valign="top" width="8%"><a href="NSForm3A.aspx?fn=DA20181127E00286&sa2=nd&sid=6893&sd=04%2f05%2f2018&ed=04%2f05%2f2019&cid=0&sa1=cl&scsd=04%2f05%2f2018&sced=04%2f05%2f2019&src=MAIN&lang=EN&">26/11/2018</a></td><td class="tbCell" align="left" valign="top" width="7%">&nbsp;</td><td class="tbCell" align="left" valign="top" width="7%">&nbsp;</td>
+	</tr><tr>
+		<td class="tbCell" align="left" valign="top" width="13%"><a href="NSForm3A.aspx?fn=DA20181127E00285&sa2=nd&sid=6893&sd=04%2f05%2f2018&ed=04%2f05%2f2019&cid=0&sa1=cl&scsd=04%2f05%2f2018&sced=04%2f05%2f2019&src=MAIN&lang=EN&">DA20181127E00285</a></td><td class="tbCell" align="left" valign="top" width="15%">Bruce Iain Ferguson</td><td class="tbCell" align="right" valign="top" width="13%">20,500(L)<br></td><td class="tbCell" align="left" valign="top" width="6%"><a href="javascript:openWin('NSStdCode.htm?ft=DA#1201', 'ExplanatoryNotes', 600, 400);void(0);">1201</a>(L)<br></td><td class="tbCell" align="right" valign="top" width="13%">HKD 292.4000</td><td class="tbCell" align="right" valign="top" width="13%">384,500(L)<br>0(S)</td><td class="tbCell" align="right" valign="top" width="6%">0.00(L)<br>0.00(S)</td><td class="tbCell" align="left" valign="top" width="8%"><a href="NSForm3A.aspx?fn=DA20181127E00285&sa2=nd&sid=6893&sd=04%2f05%2f2018&ed=04%2f05%2f2019&cid=0&sa1=cl&scsd=04%2f05%2f2018&sced=04%2f05%2f2019&src=MAIN&lang=EN&">22/11/2018</a></td><td class="tbCell" align="left" valign="top" width="7%">&nbsp;</td><td class="tbCell" align="left" valign="top" width="7%">&nbsp;</td>
+	</tr><tr>
+		<td class="tbCell" align="left" valign="top" width="13%"><a href="NSForm3A.aspx?fn=DA20180711E00521&sa2=nd&sid=6893&sd=04%2f05%2f2018&ed=04%2f05%2f2019&cid=0&sa1=cl&scsd=04%2f05%2f2018&sced=04%2f05%2f2019&src=MAIN&lang=EN&">DA20180711E00521</a></td><td class="tbCell" align="left" valign="top" width="15%">Yang Siu Shun</td><td class="tbCell" align="right" valign="top" width="13%">2,868(L)<br></td><td class="tbCell" align="left" valign="top" width="6%"><a href="javascript:openWin('NSStdCode.htm?ft=DA#1316', 'ExplanatoryNotes', 600, 400);void(0);">1316</a>(L)<br></td><td class="tbCell" align="right" valign="top" width="13%">&nbsp;</td><td class="tbCell" align="right" valign="top" width="13%">31,474(L)<br>0(S)</td><td class="tbCell" align="right" valign="top" width="6%">0.00(L)<br>0.00(S)</td><td class="tbCell" align="left" valign="top" width="8%"><a href="NSForm3A.aspx?fn=DA20180711E00521&sa2=nd&sid=6893&sd=04%2f05%2f2018&ed=04%2f05%2f2019&cid=0&sa1=cl&scsd=04%2f05%2f2018&sced=04%2f05%2f2019&src=MAIN&lang=EN&">06/07/2018</a></td><td class="tbCell" align="left" valign="top" width="7%">&nbsp;</td><td class="tbCell" align="left" valign="top" width="7%">&nbsp;</td>
+	</tr>
+</table>
+									<TABLE cellSpacing="0" cellPadding="0" width="100%" border="0">
+										<TR class="tbCell" bgcolor="#cccccc">
+											<TD align="left" bgcolor="#cccccc" class="boldtxt">
+												<span id="lblPageIndex">Page <a style="font-size:15px;font-weight:bold" href="/di/NSNotice3AListprint.aspx?sa2=nd&amp;sid=6893&amp;sd=04%2f05%2f2018&amp;ed=04%2f05%2f2019&amp;cid=0&amp;sa1=cl&amp;scsd=04%2f05%2f2018&amp;sced=04%2f05%2f2019&amp;src=MAIN&amp;lang=EN&amp;&amp;pg=1"><1></a> </span>&nbsp;</TD>
+											<TD align="right">&nbsp;</TD>
+											<TD width="20">&nbsp;</TD>
+										</TR>
+										<TR class="tbCell" bgColor="#cccccc">
+											<TD align="left" class="boldtxt">
+												<span id="lblRecRange">Displayed: 1 - 23</span>&nbsp;</TD>
+											<TD align="right" class="boldtxt"><span id="lblTotalRec">Total records: </span><span id="lblRecCount">23</span></TD>
+											<TD width="20">&nbsp;</TD>
+										</TR>
+										<TR>
+											<TD colspan="3" align="right" class="txt"><a href="#TOP">TOP</a></TD>
+										</TR>
+									</TABLE>
+								</TD>
+							</TR>
+							<TR>
+								<TD colSpan="2">&nbsp;</TD>
+							</TR>
+							<TR>								
+								<TD width="100%" colspan="2">&nbsp;
+									<input type="submit" name="cmdBack" value="Back" id="cmdBack" />
+									<input type="submit" name="cmdNewSearch" value="Start a new search" id="cmdNewSearch" />
+								</TD>
+							</TR>
+						</TABLE>
+					</TD>
+				</TR>
+				<TR>
+					<TD></TD>
+				</TR>
+			</TABLE>
+		</form>
+
+	<!-- PCCW Revamped 20040313 -->
+	
+					</TD>
+				</TR>
+		</TABLE>
+	</div>
+        </main>
+    </div>
+	<!--<script LANGUAGE="javaScript" src="../js/hkex_foot.js"></script>-->
+	
+	<!-- -->
+
+	</body>
+</HTML>
+
